@@ -9,5 +9,5 @@
       src contains the java classes which do the job
       the .pgm file in the current folder is the original image
       the .pgm file with the "Otsu" prefix is the image after Otsu image segmentation
-    
+      credit: Original Images are downlaoded from https://people.sc.fsu.edu/~jburkardt/data/pgma/pgma.html
   </body>
