@@ -1,6 +1,6 @@
 <body>
     <h1># OtsuMethod for ESTR2018 project</h1>
-      <p>Author: LAM Sze Yin, Aidan(1155193130) & Chu Ming Kong, Bosco(1155194293)
+      <p>Author: LAM Sze Yin, Aidan(1155193130) & CHU Ming Kong, Bosco(1155194293)
       <p>introduction:
       project for ESTR2018 implementing Otsu's method.
       we tried to implement Otsu's method using java
