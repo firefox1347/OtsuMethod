@@ -1,6 +1,6 @@
 <body>
     <h1># OtsuMethod for ESTR2018 project</h1>
-    <p>
+      Author: LAM Sze Yin; Chu Ming Kong, Bosco 
       introduction:
       project for ESTR2018 implementing Otsu's method.
       we tried to implement Otsu's method using java
