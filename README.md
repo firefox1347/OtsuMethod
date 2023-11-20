@@ -1,10 +1,4 @@
-<!doctype html>
-<html>
-
-  <head>
-    <title># OtsuMethod</title>    
-  </head>
-  <body>
+<body>
     <h1># OtsuMethod for ESTR2018 project</h1>
     <p>
       introduction:
@@ -17,4 +11,3 @@
       the .pgm file with the "Otsu" prefix is the image after Otsu image segmentation
     
   </body>
-</html>
