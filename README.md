@@ -7,7 +7,8 @@
 
       file description
       src contains the java classes which do the job
-      the .pgm file in the current folder is the original image
-      the .pgm file with the "Otsu" prefix is the image after Otsu image segmentation
+      the .pgm file in the current folder is the original image inputted
+      the .pgm file with the "Otsu" prefix is the output of the algorithm i.e. image after Otsu image segmentation
+      the .jpg file is converted from .pgm file for easy viewing
       credit: Original Images are downlaoded from https://people.sc.fsu.edu/~jburkardt/data/pgma/pgma.html
   </body>
