@@ -14,7 +14,9 @@ public class OtsuMethod {
         String file = "lake_256x256.pgm";
         PGM image = new PGM(file);
         PGM OtsuImage = image.otsu();
+        PGM entropyVersion = image.entropy();
         OtsuImage.exportImageToFile("Otsu"+file);
+        entropyVersion.exportImageToFile("entropy_"+file);
     }
     
 }
